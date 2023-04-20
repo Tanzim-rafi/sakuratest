@@ -2,20 +2,18 @@
     margin:0%;
     padding:0%;} 
 
-    h4 {
-        position: absolute;
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        color: rgb(0, 0, 0);
-        font-family: cursive ;
-        font-size: 4em;
-        font-weight: 20;
-        -webkit-user-select: none;
-        user-select: none;
-        z-index:5;
+   h1{
+        color:white;
+        text-align:center;
+        top:45%;
+        left:50%;
+        transform:translate(-50%);
+        font-size:60px;
+        font-weight:60;
+        font-family:sans-serif;
+z-index:5;
         
-       
+      }
 
     body {
         padding: 0;
